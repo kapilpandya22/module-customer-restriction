@@ -10,6 +10,8 @@ Navigate to **Stores** > **Configuration** > **Customers** section > **Customer 
 - Customer Login
   * restriction by email patterns
   * set error message
+- Order Restriction(Orders are restricted based on email patterns so orders cannot be placed)
+  * restriction by email patterns
 
 ## Installing the Extension
 
